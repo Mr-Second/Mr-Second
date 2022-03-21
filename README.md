@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Linear Algebra, Probability&&Statistics, C++14/17/20,**
 
-- 📝 I regularly write articles on [www.mrsecond.cn](www.mrsecond.cn)
+- 📝 I regularly write articles on [mrsecond.cn](https://mrsecond.cn/)
 
 - 💬 Ask me about **C++ Python Qt Algorithms**
 
