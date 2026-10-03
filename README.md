@@ -2,9 +2,9 @@
 <h3 align="center">Senior HarmonyOS Engineer</h3>
 
 <p align="center">
-[<img src="https://img.shields.io/badge/Website-102216?style=for-the-badge&logo=aboutdotme&logoColor=11d452"/>]
-[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>]
-[<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>]
+<img src="https://img.shields.io/badge/Website-102216?style=for-the-badge&logo=aboutdotme&logoColor=11d452"/>
+<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>
+<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>
 </p>
 
 <hr/>
